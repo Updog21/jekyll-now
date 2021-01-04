@@ -4,7 +4,7 @@ title: Homelab HW
 ---
 
 
-### Compute & Storage
+#### Compute & Storage
 
 HP ProLiant DL380e G7 LFF
 - x48GB (6 x 8GB) Ram
@@ -15,10 +15,10 @@ HP ProLiant DL380e G7 LFF
 - 10TB HDD (assortment of 3.5 HDD 7200RPM)
 - x1 HP Smart Array P420 RAID controller 
 
-### Networking
+#### Networking
 
-- Cisco 3560X-24P-L PoE switch
-- TP-Link 8P GB switch
-- x2 UniFi AC Pro APs
+Cisco 3560X-24P-L PoE switch
+TP-Link 8P GB switch
+x2 UniFi AC Pro APs
 
 
