@@ -5,7 +5,7 @@ title: Homelab HW
 
 Compute & Storage
 
-* HP ProLiant DL380e G7 LFF
+*HP ProLiant DL380e G7 LFF
 - x48GB (6 x 8GB) Ram
 - x32 cores (x2 E5-2450 v1)
 - x8 LFF front bay 
@@ -16,8 +16,8 @@ Compute & Storage
 
 Networking
 
-* Cisco 3560X-24P-L PoE switch
-* TP-Link 8P GB switch
-* x2 UniFi AC Pro APs
+*Cisco 3560X-24P-L PoE switch
+*TP-Link 8P GB switch
+*x2 UniFi AC Pro APs
 
 
