@@ -17,10 +17,10 @@ HP ProLiant DL380e G7 LFF
 
 #### Networking
 
-Cisco 3560X-24P-L PoE switch
+..Cisco 3560X-24P-L PoE switch
 
-TP-Link 8P GB switch
+..TP-Link 8P GB switch
 
-x2 UniFi AC Pro APs
+..x2 UniFi AC Pro APs
 
 
